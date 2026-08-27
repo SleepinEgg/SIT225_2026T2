@@ -1,0 +1,2 @@
+#define SECRET_SSID "GordonT";
+#define SECRET_OPTIONAL_PASS "35735737"
